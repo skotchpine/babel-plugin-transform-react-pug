@@ -1,9 +1,13 @@
+const path = require('path');
 const webpack = require('webpack');
 const Html = require('html-webpack-plugin');
 
 module.exports = {
   target: 'web',
   node: {fs: 'empty', stream: 'empty'},
+  output: {
+    path: path.resolve(__dirname, '../docs'),
+  },
   module: {
     rules: [
       {
