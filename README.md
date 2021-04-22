@@ -1,6 +1,6 @@
 # babel-plugin-transform-react-pug
 
-Use Pug templates to write react components.
+Use Pug templates to write react components. [Try it out.](https://react.pugjs.org/repl)
 
 [![npm version](https://img.shields.io/npm/v/babel-plugin-transform-react-pug.svg?longCache)](https://www.npmjs.com/package/babel-plugin-transform-react-pug) [![Build Status](https://travis-ci.org/pugjs/babel-plugin-transform-react-pug.svg?branch=master)](https://travis-ci.org/pugjs/babel-plugin-transform-react-pug) [![Codecov](https://img.shields.io/codecov/c/github/pugjs/babel-plugin-transform-react-pug.svg?longCache)
 ](https://codecov.io/gh/pugjs/babel-plugin-transform-react-pug)
